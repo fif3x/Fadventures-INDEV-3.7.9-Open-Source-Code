@@ -2,6 +2,9 @@
 
 Free C++ Open-Source Code!
 
+We serve no warranty
+In any case of loss, corrupution or anything in your computer/laptop/device happens, we are NOT responsible, however you may ask for help
+
 Changelog:
 (Too Bored to do it)
 
