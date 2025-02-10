@@ -1,0 +1,19 @@
+---Player Stats---
+
+--FadventuresINDEV v3.7.9--
+
+READ THE MODIFICATIONS.txt FILE!
+
+~STATEMENTS:
+
+ System:
+    acm = false
+
+ Player:
+    hearts = 10
+ 
+~
+
+"acm" is Anti Cheat Modification
+
+(This file will be read by the main code file)
